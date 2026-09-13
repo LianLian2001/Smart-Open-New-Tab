@@ -1,10 +1,12 @@
 // ==UserScript==
-// @name         Smart Open Page Links in New Tab
-// @namespace    https://github.com/
+// @name         Smart Open New Tab
+// @namespace    https://github.com/LianLian2001/Smart-Open-New-Tab
 // @version      4.2.0
-// @description  智能将普通页面导航打开到新标签页，同时强制分页、搜索入口等高置信度导航留在当前标签页，并保护登录、弹窗、菜单、主题切换、下载等页面内操作。
-// @author       ChatGPT
+// @description  Intelligent userscript that opens normal page navigation in new tabs while preserving pagination, search, authentication, modal, menu, theme, download, and other in-page interactions.
+// @author       Chong Liu
 // @license      MIT
+// @homepageURL  https://github.com/LianLian2001/Smart-Open-New-Tab
+// @supportURL   https://github.com/LianLian2001/Smart-Open-New-Tab/issues
 // @match        *://*/*
 // @grant        GM_openInTab
 // @grant        GM_setValue
