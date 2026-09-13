@@ -3,7 +3,7 @@
 // @namespace    https://github.com/LianLian2001/Smart-Open-New-Tab
 // @version      4.2.0
 // @description  Intelligent userscript that opens normal page navigation in new tabs while preserving pagination, search, authentication, modal, menu, theme, download, and other in-page interactions.
-// @author       Chong Liu
+// @author       Lian Lian
 // @license      MIT
 // @homepageURL  https://github.com/LianLian2001/Smart-Open-New-Tab
 // @supportURL   https://github.com/LianLian2001/Smart-Open-New-Tab/issues
