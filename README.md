@@ -23,7 +23,7 @@ download, and other in-page interactions.
 
 ### Greasy Fork
 
-[Install Smart Open New Tab](...)
+[[Install Smart Open New Tab](...)](https://greasyfork.org/zh-CN/scripts/595640-smart-open-new-tab)
 
 ### GitHub
 
